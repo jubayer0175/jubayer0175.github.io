@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD student at Virginia Tech"
   location         : "Blacksburg,VA"
-  email            :jubayer@vt.edu
+  email            :"jubayer@vt.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

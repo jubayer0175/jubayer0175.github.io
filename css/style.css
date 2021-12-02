@@ -2,8 +2,9 @@
 body {
     margin: 0;
     line-height: 1.5em;
-    color: #333333;
+    color: #ffffff;
     font-family: helvetica, arial, sans-serif;
+    background-color: rgb(95, 6, 36);
 }
 
 img {
